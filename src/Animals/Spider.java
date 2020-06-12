@@ -1,4 +1,4 @@
-
+package Animals;
 public class Spider extends Animal implements Carniverous {
 	private String name;
 	private String color;

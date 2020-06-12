@@ -1,3 +1,4 @@
+package Animals;
 
 public interface Herbivore {
 	boolean eyeOnSides = true;
