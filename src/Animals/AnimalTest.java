@@ -19,6 +19,7 @@ public class AnimalTest {
 		aspider.walk();
 		aspider.eat();
 		aspider.makeSound();
+
 	}
 
 }
